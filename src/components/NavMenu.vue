@@ -7,7 +7,7 @@
         </button>
 
         <a class="navbar-brand" href="/home">
-          <img src="../assets/logonav.png" alt="Workable" class="logo-img" />
+          <img src="../assets/images/logonav.png" alt="Workable" class="logo-img" />
         </a>
 
         <div class="d-flex align-items-center logout">
