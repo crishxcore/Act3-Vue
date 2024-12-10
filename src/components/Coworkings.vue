@@ -37,7 +37,6 @@ onMounted(async () => {
 </template>
 
 <style scoped>
-/* Coworkings */
 .coworking__details {
   margin-bottom: 4rem;
 }

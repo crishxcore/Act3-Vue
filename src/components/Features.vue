@@ -1,0 +1,39 @@
+<script setup>
+  const title = "Soy el componente features";
+</script>
+
+<template>
+  <div>
+    <h2>{{ title }}</h2>
+  </div>
+</template>
+
+
+<style scoped>
+  .categories {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.category__icon {
+  width: 4rem;
+  height: 4rem;
+  font-size: var(--font-size-title-sm);
+  background-color: var(--primary-color);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.category__text {
+  font-size: var(--font-size-body);
+  font-weight: var(--font-weight-bold);
+}
+
+a {
+  color: var(--text-color);
+  text-decoration: none;
+}
+</style>

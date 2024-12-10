@@ -21,7 +21,6 @@
 
 
 <style scoped>
-  /* Hero */
   .hero {
     background-color: var(--primary-color);
     padding: 6rem 1rem 2rem;
