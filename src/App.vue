@@ -10,9 +10,11 @@ import Footer from './components/Footer.vue'
 <template>
   <NavMenu />
   <Hero />
-  <Icons />
-  <Coworkings />
-  <Form />
+    <div class="container">
+      <Icons />
+      <Coworkings />
+      <Form />
+    </div>
   <Footer />
 </template>
 
