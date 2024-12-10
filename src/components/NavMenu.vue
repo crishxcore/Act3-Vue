@@ -102,7 +102,6 @@ export default {
   font-size: 36px;
 }
 
-/* Nav Logo */
 .logo {
   width: 200px;
   height: auto;
@@ -124,7 +123,6 @@ export default {
   color: black;
 }
 
-/* Nav User */
 #user-email {
   display: none;
   font-size: var(--font-size-small);
